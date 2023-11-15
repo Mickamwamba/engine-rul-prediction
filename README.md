@@ -5,9 +5,11 @@ Predicting the number of remaining cycles [Remaining Useful Life (RUL)] of aircr
 
 # Why is this important?
 
-Prevent unexpected failure.
-Reduce downtime
-Optimize resource optimization.
+- Prevent unexpected failure.
+- Reduce downtime
+- Optimize resource optimization.
+
+# ML Problem Framing
 
 This study explored 3 different sets of problem frames as explained below : 
 - Binary Classification Problem – Predicting whether the engine will fail within 30 days or not.
