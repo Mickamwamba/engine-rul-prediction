@@ -3,7 +3,7 @@ The aviation industry relies heavily on the efficiency and reliability of aircra
 The unpredictable nature of engine failures poses significant challenges for the aviation industry. Traditional maintenance approaches, which rely on predefined schedules or usage-based thresholds, often lead to suboptimal resource allocation and increased operational costs.
 Predicting the number of remaining cycles [Remaining Useful Life (RUL)] of aircraft engines has become a critical aspect of maintenance strategies
 
-![alt text]([http://url/to/img.png](https://github.com/Mickamwamba/engine-rul-prediction/blob/master/poster.png))
+![Screenshot](poster.png)
 
 # Why is this important?
 
